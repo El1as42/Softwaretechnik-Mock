@@ -1,4 +1,4 @@
-# Mock fürs Softwarepraktikum WiSe23/24 TU Chemnitz
+# Mock fürs Softwarepraktikum WiSe 23/24 TU Chemnitz
 
 ### Install requirements:
 ```shell
